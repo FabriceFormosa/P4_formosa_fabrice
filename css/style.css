@@ -1053,13 +1053,16 @@ h4 {
 
 
 /***********************************************/
-#bloc-6
-{
-    /* width:50%; */
-}
+
 
 .img-responsive
 {
     width: auto;
     margin: auto;
+}
+
+#logo_webp
+{
+    width: 100;
+    height: auto;
 }
