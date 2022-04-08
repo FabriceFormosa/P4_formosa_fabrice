@@ -645,7 +645,6 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
@@ -827,7 +826,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("../img/agence-la-panthere.webp");
+    background-image: url("../img/agence-la-panthere-1366x768.webp");
     background-size: cover;
 }
 
