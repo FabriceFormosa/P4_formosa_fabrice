@@ -662,7 +662,7 @@ p,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #533D3C!important;/*#575757!important;*/
+    color: #333333!important;/*#575757!important;*/
 }
 
 .container {
@@ -798,7 +798,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #533D3C!important;/*#FFFFFF!important;*/
+    color: #333333!important;/*#FFFFFF!important;*/
 }
 
 .btn-atomic-tangerine:hover {
