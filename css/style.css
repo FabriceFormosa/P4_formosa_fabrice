@@ -7,6 +7,13 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+.form
+{
+    width: 50%;
+    margin: auto;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -17,6 +24,7 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -401,6 +409,8 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
+    
+  
 }
 
 .nav > li > .dropdown a {
@@ -707,7 +717,7 @@ p {
     margin: auto auto auto auto;
     /* padding-top: 15px; */
     padding-bottom: 15px;
-
+    
 }
 
 h2 {
@@ -1035,6 +1045,12 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .form
+    {
+        padding: 15px;
+        width: auto;
+        margin: auto;
     }
 }
 
