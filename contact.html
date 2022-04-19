@@ -31,7 +31,14 @@
 	<script src="./js/formHandler.js" defer></script>
 	
 	<script>
-		$(function () { $("input,textarea").not("[type=submit]").jqBootstrapValidation(); } );
+		try{
+			$(function () { $("input,textarea").not("[type=submit]").jqBootstrapValidation(); } );
+		}
+		catch(e)
+		{
+			console.log(e);
+		}
+		
 	</script>
 	
 	<!-- Analytics -->
